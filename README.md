@@ -8,7 +8,7 @@
 <img src="https://api.visitorbadge.io/api/visitors?path=https://github.com/justikail/PhObfus&style=flat&countColor=%black"><br>
 <img src="https://github-readme-stats.vercel.app/api/pin?username=justikail&repo=PhObfus&hide_border=false&show_icons=false&border_color=00ff00&bg_color=000000&title_color=39FF14&text_color=FFFFFF&icon_color=2dde98">
 <br><br>
-<h2>@copy; 2023-09-01</h2>
+<b>@copy; 2023-09-01</b>
 <br><br>
 <div align="left">
 <h1>Preview</h1>
