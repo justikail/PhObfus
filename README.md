@@ -1,5 +1,6 @@
 <p align="center">
-<b>_•PhObfus•_</b><br>
+<h1><b>_•PhObfus•_</b></h1>
+<br>
 <samp>_A Strongest PHP Obfuscation Online Tools._</samp><br><br>
 <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/justikail/PhObfus?color=black&style=flat">
 <img src="https://img.shields.io/github/forks/justikail/PhObfus?color=black&style=flat">
@@ -7,8 +8,7 @@
 <img src="https://api.visitorbadge.io/api/visitors?path=https://github.com/justikail/PhObfus&style=flat&countColor=%black"><br>
 <img src="https://github-readme-stats.vercel.app/api/pin?username=justikail&repo=PhObfus&hide_border=false&show_icons=false&border_color=00ff00&bg_color=000000&title_color=39FF14&text_color=FFFFFF&icon_color=2dde98">
 <br><br>
-@copy; 2023-09-01 - [![Windows Badge](https://img.shields.io/badge/Windows-black?style=flat&logo=windows&link=https://www.microsoft.com)](https://www.microsoft.com)
-[![Linux Badge](https://img.shields.io/badge/Linux-black?style=flat&logo=linux&link=https://www.linux.org)](https://www.linux.org)
+<h2>@copy; 2023-09-01</h2>
 <br><br>
 <div align="left">
 <h1>Preview</h1>
