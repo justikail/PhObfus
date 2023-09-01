@@ -1,5 +1,5 @@
 <p align="center">
-<h1><b>_•PhObfus•_</b></h1>
+<b>_•PhObfus•_</b>
 <br>
 <samp>_A Strongest PHP Obfuscation Online Tools._</samp><br><br>
 <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/justikail/PhObfus?color=black&style=flat">
