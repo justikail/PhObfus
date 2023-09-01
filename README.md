@@ -12,6 +12,6 @@
 <br><br>
 <div align="left">
 <h1>Preview</h1>
-<img src="https://raw.githubusercontent.com/justikail/PhObfus/main/Preview%20-%201.png?token=GHSAT0AAAAAACB5HYYJR52QTXMGGQ4EAKPIZHRP5GA" alt="Home Preview">
+<img src="https://raw.githubusercontent.com/justikail/PhObfus/main/Preview%20-%201.png" alt="Home Preview">
 <br><br><br><br><br>
-<img src="https://raw.githubusercontent.com/justikail/PhObfus/main/Preview%20-%202.png?token=GHSAT0AAAAAACB5HYYJ75PRECCQUIAE76BKZHRQALA" alt="Output Preview">
+<img src="https://raw.githubusercontent.com/justikail/PhObfus/main/Preview%20-%202.png" alt="Output Preview">
